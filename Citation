@@ -1,0 +1,9 @@
+@misc{os-auv-electrical-subsystem,
+  author = {Robert Fudge},
+  title = {Open Source AUV Electrical Subsystem},
+  version = {1.0.0},
+  year = {2025},
+  url = {https://github.com/Rnfudge02/os-auv-electrical-subsystem},
+  orcid = {0009-0001-8463-7740},
+  license = {Apache-2.0}
+}
