@@ -27,5 +27,5 @@ Our capstone team has agreed to open-source the efforts of our development, unde
 - 1x Jetson Orin NX 8GB
 
 ## Media
-[![System startup](https://raw.githubusercontent.com/rnfudge02/os-auv-electrical-subsystem/main/resources/potential_servo_integration.jpeg)]
-[System startup](https://raw.githubusercontent.com/rnfudge02/os-auv-electrical-subsystem/main/resources/system_init.mp4)
+![System startup](https://raw.githubusercontent.com/rnfudge02/os-auv-electrical-subsystem/main/resources/potential_servo_integration.jpeg)
+![System startup](https://raw.githubusercontent.com/rnfudge02/os-auv-electrical-subsystem/main/resources/system_init.mp4)
